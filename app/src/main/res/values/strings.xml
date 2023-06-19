@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Cuebue</string>
+
+    <string name="signup">SIGN UP</string>
+    <string name="preview">PREVIEW</string>
+    <string name="proceed">P R O C E E D</string>
+    <string name="login">L O G I N</string>
+    <string name="resend">RESEND CODE</string>
+    <string name="input">INPUT CODE</string>
+    <string name="forgot">FORGOT PASSWORD</string>
+    <string name="success">SUCCESS</string>
+    <string name="choose">CHOOSE ACCOUNT</string>
+
+    //EditText
+    <string name="bvn">BVN</string>
+    <string name="bvn_ph_no">BVN Phone Number</string>
+    <string name="ph_no">Alternate Phone Number (Optional)</string>
+    <string name="pass">PASSWORD</string>
+    <string name="acct">Account No.</string>
+    <string name="acct_ph_no">Account Phone Number</string>
+    <string name="nick">Nickname</string>
+    <string name="pin">USSD Transaction PIN</string>
+    <string name="amount">Amount</string>
+    <string name="acct_name">Account Name</string>
+    <string name="normal_phone">Phone Number</string>
+    <string name="pinacle">PIN</string>
+    <string name="name">NAME</string>
+
+
+    //Buttons
+    <string name="done">D O N E</string>
+    <string name="pay">P A Y</string>
+    <string name="back">B A C K</string>
+    <string name="manage">MANAGE ACCOUNT PROFILES</string>
+    <string name="transfer">TRANSFERS</string>
+    <string name="mobile">MOBILE TOP-UP</string>
+    <string name="view">REQUEST BALANCE</string>
+    <string name="add">A D D</string>
+    <string name="delete">D E L E T E</string>
+
+    //card
+    <string name="mtn">M T N</string>
+    <string name="glo">G L O</string>
+    <string name="airtel">A I R T E L</string>
+    <string name="nine_mobile">9mobile</string>
+
+    //text
+    <string name="print">Print Receipt</string>
+    <string name="share">Share</string>
+    <string name="already">Already Registered?</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="otp_text">OTP has been sent to you on your mobile phone. Please enter it below</string>
+    <string name="please">Please input code below:</string>
+    <string name="mode">Transaction Mode:</string>
+    <string name="welcome">WELCOME</string>
+    <string name="accont">ADD PROFILE</string>
+    <string name="thank">THANK YOU!!!</string>
+    <string name="trans">Your transaction was SUCCESSFUL!!!</string>
+    <string name="your">Your Balance!!</string>
+    <string name="bal">INPUT YOUR PIN</string>
+    <string name="select">Select Bank</string>
+    <string name="man">MANAGE PROFILES</string>
+    <string name="something">Profiles created will be displayed in this card. Just click on the button. Thanks</string>
+    <string name="to">To:</string>
+    <string name="from">From:</string>
+
+    //switch
+    <string name="online">ONLINE</string>
+    <string name="offline">OFFLINE</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    //list of banks
+    <string-array name="banks_array">
+        <item>SELECT BANK</item>
+        <item>ACCESS BANK</item> //1
+        <item>ECOBANK</item> //2
+        <item>FIDELITY BANK</item> //3
+        <item>FIRST BANK OF NIGERIA</item> //4
+        <item>FIRST CITY MONUMENT BANK</item> //5
+        <item>GUARANTY TRUST BANK</item> //6
+        <item>HERITAGE BANK</item> //7
+        <item>KEYSTONE BANK</item> //8
+        <item>POLARIS BANK</item> //9
+        <item>STANBIC IBTC BANK</item> //10
+        <item>STANDARD CHARTERED BANK</item> //11
+        <item>STERLING BANK</item> //12
+        <item>UNION BANK</item> //13
+        <item>UBA</item> //14
+        <item>UNITY BANK PLC</item> //15
+        <item>WEMA BANK</item> //16
+        <item>ZENITH BANK</item> //17
+    </string-array>
+
+    <string-array name="Networks">
+        <item>MTN</item>
+        <item>AIRTEL</item>
+        <item>GLO</item>
+        <item>9MOBILE</item>
+    </string-array>
+
+
+</resources>

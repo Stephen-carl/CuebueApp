@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_add_profile.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.21561338289962825" />
+        <entry key="app/src/main/res/layout/activity_main_view_balance.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_manage_profile.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_mobile_top_up.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_otp.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.26394052044609667" />
+        <entry key="app/src/main/res/layout/activity_success.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_top_up_preview.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_trans_preview.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_transfers.xml" value="0.21561338289962825" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
